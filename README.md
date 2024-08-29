@@ -6,8 +6,8 @@
     <title>README.md</title>
 </head>
 <body>
-    <h1>Nome do Projeto</h1>
-    <p>Explicação sobre o que se trata o projeto</p>
+    <h1>Sistema de Leiloes</h1>
+    <p>O projeto é sobre a criação de um sistema informatizado para uma casa de leilões. A ideia é desenvolver um software que ajude a gerenciar as rotinas da casa de leilões, como o cadastro de produtos, a listagem de itens disponíveis e a realização de leilões. O sistema será desenvolvido em Java e utilizará o banco de dados MySQL para armazenar as informações dos produtos e suas respectivas transações. Além disso, o projeto será versionado utilizando o GitHub para garantir a segurança e a qualidade do software.</p>
     <h2>Tecnologias Utilizadas</h2>
     <ul>
         <li>Java</li>
